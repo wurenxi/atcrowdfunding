@@ -19,8 +19,8 @@ eureka:
 
 aliyun:
   oss:
-    access-key-id: LTAI5tF8Mcm3hBbiEk2XoiHf
-    access-key-secret: 0zhjmqjCrUJcPeZlhbXmcB9NDSsGbD
-    bucket-domain: http://211122atcrowdfunding.oss-cn-hangzhou.aliyuncs.com
-    bucket-name: 211122atcrowdfunding
-    end-point: http://oss-cn-hangzhou.aliyuncs.com
+    access-key-id: xxxx
+    access-key-secret: xxxx
+    bucket-domain: xxxx
+    bucket-name: xxxx
+    end-point: xxxx
