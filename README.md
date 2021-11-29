@@ -1,17 +1,17 @@
 # atcrowdfunding
 尚筹网
 --
-涉及到的技术包括：
-SSM JSP MAVEN SpringSecurity Tomcat
-SpringBoot SpringCloud
-Eureka Ribbon OpenFign Zuul Thymeleaf HTML
-关系型数据库：
-MySQL
-非关系型数据库：
-Redis
-解决Session在各个微服务不同的问题：
-SpringSession
-第三方接口：
-支付宝 短信服务 对象存储OSS
-内网穿透：
-NATAPP
+涉及到的技术包括：<br/>
+SSM JSP MAVEN SpringSecurity Tomcat<br/>
+SpringBoot SpringCloud<br/>
+Eureka Ribbon OpenFign Zuul Thymeleaf HTML<br/>
+关系型数据库：<br/>
+MySQL<br/>
+非关系型数据库：<br/>
+Redis<br/>
+解决Session在各个微服务不同的问题：<br/>
+SpringSession<br/>
+第三方接口：<br/>
+支付宝 短信服务 对象存储OSS<br/>
+内网穿透：<br/>
+NATAPP<br/>
