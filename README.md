@@ -1,5 +1,5 @@
 # atcrowdfunding
-尚筹网
+尚筹网（前台使用微服务架构，后台使用SSM架构）
 --
 涉及到的技术包括：<br/>
 SSM JSP MAVEN SpringSecurity Tomcat<br/>
