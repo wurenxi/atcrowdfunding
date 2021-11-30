@@ -9,7 +9,7 @@ Eureka Ribbon OpenFign Zuul Thymeleaf HTML<br/>
 MySQL<br/>
 非关系型数据库：<br/>
 Redis<br/>
-解决Session在各个微服务不同的问题：<br/>
+解决Session共享问题：<br/>
 SpringSession<br/>
 第三方接口：<br/>
 支付宝 短信服务 对象存储OSS<br/>
